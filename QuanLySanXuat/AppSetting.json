@@ -1,0 +1,8 @@
+{
+  "AppSetting": {
+    "ConnectionString": {
+      "DefaultConnection": "Server={ServerName};Database=QuanLySanXuat;Trusted_Connection=True;"
+    },
+    "ServerName": "ADMIN-PC\\ANTHONYNGUYEN"
+  }
+}
