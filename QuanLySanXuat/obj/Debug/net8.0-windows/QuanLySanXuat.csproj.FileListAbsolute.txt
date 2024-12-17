@@ -154,3 +154,4 @@ E:\MyProject\c#\QuanLySanXuat\QuanLySanXuat\obj\Debug\net8.0-windows\QuanLySanXu
 E:\MyProject\c#\QuanLySanXuat\QuanLySanXuat\obj\Debug\net8.0-windows\QuanLySanXuat.genruntimeconfig.cache
 E:\MyProject\c#\QuanLySanXuat\QuanLySanXuat\obj\Debug\net8.0-windows\ref\QuanLySanXuat.dll
 E:\MyProject\c#\QuanLySanXuat\QuanLySanXuat\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\MyProject\c#\QuanLySanXuat\QuanLySanXuat\obj\Debug\net8.0-windows\QuanLySanXuat.sourcelink.json
